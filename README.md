@@ -18,3 +18,6 @@ Tool for inject vbscript into Picture (.png file).
 #### yes mean overwrite this picture file,
 #### no mean it create another file like "PictureName_[Random string].png",
 #### cancel mean cancel this current work.
+
+### Note
+#### I dont garantee your code in png will run normal.
