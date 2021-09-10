@@ -1,0 +1,6 @@
+C:\Users\uSEr\source\repos\c\c\bin\Debug\c.exe.config
+C:\Users\uSEr\source\repos\c\c\bin\Debug\c.exe
+C:\Users\uSEr\source\repos\c\c\bin\Debug\c.pdb
+C:\Users\uSEr\source\repos\c\c\obj\Debug\VBScriptPicInjection.csproj.CoreCompileInputs.cache
+C:\Users\uSEr\source\repos\c\c\obj\Debug\c.exe
+C:\Users\uSEr\source\repos\c\c\obj\Debug\c.pdb
